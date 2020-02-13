@@ -14,4 +14,4 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, Seoul National University, 2016
-* Ph.D in Mathematics, Stony Brook University, Present
+* Ph.D in Mathematics, Stony Brook University (Present)
