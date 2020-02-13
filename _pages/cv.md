@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my CV.
-[here](../CV/JCV.pdf).
+[Here](../CV/JCV.pdf) is my CV.
 
 Education
 ======
