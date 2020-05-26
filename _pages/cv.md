@@ -18,4 +18,4 @@ Education
 
 Publications
 ======
-1. J. H. Cho, Y. Li, *Ancient solutions to the Ricci flow with isotropic curvature conditions*, arXiv:2005.11866
+1. J. H. Cho, Y. Li, *Ancient solutions to the Ricci flow with isotropic curvature conditions*, [arXiv:2005.11866](https://arxiv.org/abs/2005.11866)
